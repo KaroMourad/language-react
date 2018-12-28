@@ -1,0 +1,13 @@
+.maincont {
+  position: absolute;
+  top:20%;
+  left:50%;
+  transform: translateX(-50%);
+}
+
+
+.langicon  {
+  position: absolute;
+  top:5%;
+  left: 90%;
+}
